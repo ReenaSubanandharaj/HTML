@@ -1,3 +1,3 @@
 # HTML
 
-![alt text](https://github.com/nagarajand1975/Angular_EmployeePortfolio/blob/master/output.jpg)
+![alt text](https://github.com/ReenaSubanandharaj/HTML/blob/master/Screenshot%20(2).png)
